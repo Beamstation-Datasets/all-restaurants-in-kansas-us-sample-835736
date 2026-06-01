@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "All restaurant listings across the state of Kansas. Filtered by the Restaurants category group, this statewide export includes verified business profiles, review analytics, competitive benchmarks, and contact details for every active listing. Refreshed weekly.",
   "config_name": "All Restaurants in Kansas, US",
-  "export_job_id": "29840656-29c7-45c5-aaf3-4b13bc54c366",
+  "export_job_id": "2c54de89-2ce4-4b82-abd4-c934f8700ff9",
   "github_org": "Beamstation-Datasets",
   "id_short": 835736,
   "location_name": "Kansas",
@@ -14,9 +14,9 @@
   "repo_name": "all-restaurants-in-kansas-us-sample-835736",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/835736/beamstation_835736_restaurants-us-ks_SAMPLE_DIST.csv",
   "sample_pct": 9.99,
-  "sample_records": 645,
-  "sample_sha256": "ba2de3e794f5756bbb6478011ade2142909c5f448419673a98dc98ee7061ae0d",
-  "sample_size_bytes": 2047622,
-  "total_records": 6458,
-  "updated_at": "2026-04-29T03:18:17.924049+00:00"
+  "sample_records": 700,
+  "sample_sha256": "0ce0b896c9c86e55bf4924413e2a9a7ab7e2676eb31f7e93dd7111eebe6d2cc5",
+  "sample_size_bytes": 2263865,
+  "total_records": 7006,
+  "updated_at": "2026-05-19T19:18:13.396119+00:00"
 }
